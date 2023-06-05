@@ -1,0 +1,18 @@
+[project]
+name = "weather_gauravnit"
+version = "0.0.1"
+authors = [
+  { name="Gaurav Kumar", email="reachoutgaurav@gmail.com" },
+]
+description = "This is a command-line tool that accepts a city's name and returns the current weather forecast."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/gauravnit/weather-api"
+"Bug Tracker" = "https://github.com/gauravnit/weather-api/issues"
