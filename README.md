@@ -8,6 +8,7 @@ python app.py <city>
 Example
 
 python app.py London
+  
 Current weather: overcast clouds
 Temperature: 289.15 K
 Feels like: 287.82 K
@@ -15,6 +16,7 @@ Humidity: 82 %
 Wind speed: 2.06 m/s
 
 python app.py London,uk
+  
 Current weather: overcast clouds
 Temperature: 289.15 K
 Feels like: 287.82 K
@@ -22,9 +24,11 @@ Humidity: 82 %
 Wind speed: 2.06 m/s
 
 python app.py London,us
+  
 City not found
 
 python app.py London,uk,us,india
+  
 City not found
 
 ======================================================================================
